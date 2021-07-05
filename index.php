@@ -1,5 +1,3 @@
-index.php
-
 <?php
 
 include 'vendor/autoload.php';
