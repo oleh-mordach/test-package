@@ -1,6 +1,6 @@
 {
     "name": "oleh-mordach/test-package",
-    "description": "My test package ",
+    "description": "My test package",
     "keywords": [
         "oleh mordach",
         "test-package"
@@ -12,7 +12,7 @@
         {
             "name": "Oleh Mordach",
             "email": "oleh@get-code.net",
-            "role": "Developer"
+            "role": "PM"
         }
     ],
     "require": {

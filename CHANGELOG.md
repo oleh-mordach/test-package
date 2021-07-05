@@ -2,6 +2,6 @@
 
 All notable changes to `test-package` will be documented in this file
 
-## 1.0.0 - 201X-XX-XX
+## 2.1.0 - 2021-07-05
 
 - initial release
