@@ -4,7 +4,8 @@
 [![StyleCI](https://github.styleci.io/repos/383125965/shield?branch=main)](https://github.styleci.io/repos/383125965?branch=main)
 [![PHP Composer](https://github.com/oleh-mordach/test-package/actions/workflows/php.yml/badge.svg?branch=main)](https://github.com/oleh-mordach/test-package/actions/workflows/php.yml)
 
-### This is my test package. It just print out 'Hello' word in Ukarainain language. 
+### This is my test package. It just prints out the 'Hello' word in the Ukrainian language.
+
 
 ## Installation
 
