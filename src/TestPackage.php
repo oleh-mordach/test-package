@@ -6,6 +6,6 @@ class TestPackage
 {
     public function hello()
     {
-        return "Привіт!";
+        return 'Привіт!';
     }
 }
