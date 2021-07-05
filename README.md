@@ -30,10 +30,6 @@ or
 ./vendor/bin/phpunit
 ```
 
-## Credits
-
--   [Oleh Mordach](https://github.com/oleh mordach)
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
