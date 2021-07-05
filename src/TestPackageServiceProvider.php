@@ -21,7 +21,7 @@ class TestPackageServiceProvider extends ServiceProvider
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__.'/../config/config.php' => config_path('TestPackage.php'),
+                __DIR__.'/../config/config.php' => config_path('test-package.php'),
             ], 'config');
 
             // Publishing the views.
@@ -50,10 +50,10 @@ class TestPackageServiceProvider extends ServiceProvider
     public function register()
     {
         // Automatically apply the package configuration
-        $this->mergeConfigFrom(__DIR__.'/../config/config.php', 'TestPackage');
+        $this->mergeConfigFrom(__DIR__.'/../config/config.php', 'test-package');
 
         // Register the main class to use with the facade
-        $this->app->singleton('TestPackage', function () {
+        $this->app->singleton('test-package', function () {
             return new TestPackage;
         });
     }

@@ -16,6 +16,6 @@ class TestPackageFacade extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'TestPackage';
+        return 'test-package';
     }
 }
