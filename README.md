@@ -1,6 +1,6 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/oleh mordach/test-package.svg?style=flat-square)](https://packagist.org/packages/oleh-mordach/test-package)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/oleh-mordach/test-package.svg?style=flat-square)](https://packagist.org/packages/oleh-mordach/test-package)
 [![Total Downloads](https://img.shields.io/packagist/dt/oleh-mordach/test-package.svg?style=flat-square)](https://packagist.org/packages/oleh-mordach/test-package)
 ![GitHub Actions](https://github.com/oleh-mordach/test-package/actions/workflows/main.yml/badge.svg)
 
