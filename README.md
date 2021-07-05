@@ -1,8 +1,7 @@
 # Very short description of the package
 
 [![Build Status](https://travis-ci.com/oleh-mordach/test-package.svg?branch=main)](https://travis-ci.com/oleh-mordach/test-package) 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/oleh-mordach/test-package.svg?style=flat-square)](https://packagist.org/packages/oleh-mordach/test-package)
-[![Total Downloads](https://img.shields.io/packagist/dt/oleh-mordach/test-package.svg?style=flat-square)](https://packagist.org/packages/oleh-mordach/test-package)
+[![StyleCI](https://github.styleci.io/repos/383125965/shield?branch=main)](https://github.styleci.io/repos/383125965?branch=main)
 [![PHP Composer](https://github.com/oleh-mordach/test-package/actions/workflows/php.yml/badge.svg?branch=main)](https://github.com/oleh-mordach/test-package/actions/workflows/php.yml)
 
 ### This is my test package. It just print out 'Hello' word in Ukarainain language. 
