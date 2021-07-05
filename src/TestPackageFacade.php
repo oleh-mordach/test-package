@@ -1,11 +1,11 @@
 <?php
 
-namespace GetCode\TestPackage;
+namespace OlehMordach\TestPackage;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \GetCode\TestPackage\Skeleton\SkeletonClass
+ * @see \OlehMordach\TestPackage\Skeleton\SkeletonClass
  */
 class TestPackageFacade extends Facade
 {

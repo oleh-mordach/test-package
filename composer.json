@@ -1,11 +1,11 @@
 {
-    "name": "getcode/test-package",
+    "name": "oleh mordach/test-package",
     "description": "My test package ",
     "keywords": [
-        "getcode",
+        "oleh mordach",
         "test-package"
     ],
-    "homepage": "https://github.com/getcode/test-package",
+    "homepage": "https://github.com/oleh mordach/test-package",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "GetCode\\TestPackage\\": "src"
+            "OlehMordach\\TestPackage\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "GetCode\\TestPackage\\Tests\\": "tests"
+            "OlehMordach\\TestPackage\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,10 +44,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "GetCode\\TestPackage\\TestPackageServiceProvider"
+                "OlehMordach\\TestPackage\\TestPackageServiceProvider"
             ],
             "aliases": {
-                "TestPackage": "GetCode\\TestPackage\\TestPackageFacade"
+                "TestPackage": "OlehMordach\\TestPackage\\TestPackageFacade"
             }
         }
     }

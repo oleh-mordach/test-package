@@ -1,6 +1,6 @@
 <?php
 
-namespace GetCode\TestPackage;
+namespace OlehMordach\TestPackage;
 
 use Illuminate\Support\ServiceProvider;
 
