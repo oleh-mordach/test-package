@@ -4,5 +4,8 @@ namespace OlehMordach\TestPackage;
 
 class TestPackage
 {
-    // Build your next great package.
+    public function hello()
+    {
+        return "Привіт!";
+    }
 }
